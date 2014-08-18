@@ -1,0 +1,21 @@
+{
+  "name": "node-todo",
+  "version": "0.0.0",
+  "description": "Personal PT application.",
+  "main": "server.js",
+  "author": "Iterate",
+  "dependencies": {
+    "body-parser": "~1.4.3",
+    "express": "~4.6.1",
+    "gulp": "^3.8.7",
+    "method-override": "~2.1.1",
+    "mongoose": "~3.8.13",
+    "morgan": "~1.1.1"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "gulp": "^3.8.7",
+    "gulp-jshint": "^1.8.4",
+    "gulp-nodemon": "^1.0.4"
+  }
+}
